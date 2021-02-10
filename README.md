@@ -4,9 +4,11 @@
 
 **Summary** : 
 
-- This is a personal data science project launched to apprehend Keras text preprocessing oriented functionalities (tokenization, sequences padding, embeddings layer) 
+This is a personal data science project launched to apprehend :
+- Keras text preprocessing oriented functionalities (tokenization, sequences padding, embeddings layer) 
+- Pre-trained Glove embeddings integration
 
-- The goal of this project is to create a 3-way polarity (positive, negative, neutral) classification system for tweets. We'll use the external dataset of Coronavisur tweets, pre-trained word embeddings vectors GLOVE and Keras Sequential model to create an engine capable to classify the tweet as positive, negative or neutral. 
+The goal of this project is to create a 3-way polarity (positive, negative, neutral) classification system for tweets. We'll use the external dataset of Coronavisur tweets, pre-trained word embeddings vectors GLOVE and Keras Sequential model to create an engine capable to classify the tweet as positive, negative or neutral. 
 
 
 **Used data**
