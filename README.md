@@ -10,6 +10,12 @@ This is a personal data science project launched to ty out :
 
 The goal of this project is to create a three-way polarity (positive, negative, neutral) classification system for tweets. We'll use the external dataset of Coronavirus tweets, pre-trained word embeddings vectors GLOVE and Keras Sequential model to create an engine capable of classifying each tweet as positive, negative or neutral. 
 
+**Repo structure**
+
+This repo includes the following files:
+
+- The Jupyter notebook used for this project (notebook.ipynb);
+- 'Models' directory containing trained models
 
 **Used data**
 
